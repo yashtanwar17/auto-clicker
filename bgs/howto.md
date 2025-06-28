@@ -1,0 +1,2 @@
+- Drag any one `bg file` from this folder to `main.py` folder. (Or make an image of 400x400 resolution)
+- Rename to `bg.jpg`
