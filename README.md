@@ -5,6 +5,7 @@
 # Auto Clicker v1.0
 
 A stylish, customizable auto clicker, featuring:
+
 ![App](https://raw.githubusercontent.com/yashtanwar17/auto-clicker/refs/heads/main/bgs/app.png)
 
 - Dynamic click rate control based on user input speed.
