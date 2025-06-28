@@ -1,5 +1,7 @@
 > ⚠️ **Disclaimer**: This tool is for educational and personal use only.  
 > Do not use it to cheat in online games or violate software terms of service.
+> Read [bgs/howto.md](https://github.com/yashtanwar17/auto-clicker/blob/main/bgs/howto.md) for customization.
+> Custom backgrounds only work in `main.py`
 # Auto Clicker v1.0
 
 A stylish, customizable auto clicker, featuring:
